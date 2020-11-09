@@ -1,0 +1,8 @@
+com/picpay/api/oauth2/restapi/UserControllerTest.class
+com/picpay/api/oauth2/restapi/utils/LoginControllerRequestTestUtils.class
+com/picpay/api/oauth2/restapi/utils/UserControllerRequestTestUtils.class
+com/picpay/api/oauth2/restapi/utils/TesterUser.class
+com/picpay/api/oauth2/BaseTest.class
+com/picpay/api/oauth2/restapi/utils/TesterUser$TesterUserBuilder.class
+com/picpay/api/oauth2/restapi/AuthorizationControllerTest.class
+com/picpay/api/oauth2/application/UserServiceTest.class
